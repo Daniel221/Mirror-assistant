@@ -1,0 +1,3 @@
+config/*
+modules/MMM-GoogleTasks/credentials.json
+modules/MMM-GoogleTasks/token.json

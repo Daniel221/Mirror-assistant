@@ -1,0 +1,5 @@
+{
+    "client_id": "674869470132-fveo8clil0kb1icdpoc0u9its0qc94ur.apps.googleusercontent.com",
+    "client_secret": "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",
+    "redirect_uri": "http://localhost/mmgooglecalendar:8081"
+}
